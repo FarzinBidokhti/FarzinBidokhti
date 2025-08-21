@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - **Languages:** PHP, JavaScript, HTML/ CSS 
 - **Frameworks:** Laravel, Vuejs, Bootstrap
 - **Tools:** Git, GitHub, VS Code
-- **Databases:** MySQL, SQlServer, PostgreSQL
+- **Databases:** MySQL, SQLServer, PostgreSQL
 
 ---
 
