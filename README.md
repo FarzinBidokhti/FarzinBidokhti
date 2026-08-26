@@ -73,7 +73,10 @@ With **6 years of teaching experience**, delivering structured training programs
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzinbidokhti&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=farzinbidokhti&theme=nord&hide_border=true"
+    alt="Farzin's GitHub Streak"
+  />
 </div>
 
 ---
