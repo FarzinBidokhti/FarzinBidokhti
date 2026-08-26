@@ -1,41 +1,88 @@
-### Hi there, I'm Farzin Bidokhti 👋
+# Farzin Bidokhti
+### Backend Developer & Smart Systems Specialist
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and continuous learning.
-
-![Profile Views](https://komarev.com/ghpvc/?username=FarzinBidokhti&color=blue)
-
----
-
-### 📫 How to Reach Me
-
-- Email: [Farzin.Bidokhti@gmail.com](mailto:Farzin.Bidokhti@gmail.com)
-- LinkedIn: [Farzin Bidokhti](https://www.linkedin.com/in/farzinbidokhti)
-- Twitter: [@FarzinBidokhti](https://twitter.com/FarzinBidokhti)
+A backend developer and smart systems specialist with a strong background in architecting reliable backend services, industrial IoT ecosystems, and operational infrastructure. Focused on building scalable architectures, implementing end-to-end monitoring solutions, designing robust databases, and solving complex technical challenges with structured problem-solving methodologies.
 
 ---
 
-### 🔧 Technologies & Tools
+### Current Role
+**Smart Systems Specialist** | *Tire Manufacturing Company* *(1.5+ Years)*
 
-- **Languages:** PHP, JavaScript, HTML/ CSS 
-- **Frameworks:** Laravel, Vuejs, Bootstrap
-- **Tools:** Git, GitHub, VS Code
-- **Databases:** MySQL, SQLServer, PostgreSQL
-
----
-
-### 📈 GitHub Stats
-
-![Farzin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarzinBidokhti&show_icons=true&hide_border=true)
+- **Server & Infrastructure Administration:** Deploying, securing, and maintaining Linux-based servers and Dockerized service environments.
+- **Internal Systems Engineering:** Developing, maintaining, and scaling business-critical internal applications.
+- **Industrial Monitoring & Observability:** Designing and managing comprehensive monitoring solutions using Zabbix and Grafana.
+- **IoT & Industrial Data Systems:** Configuring EMQX message brokers, MQTT pipelines, and Node-RED flows for real-time industrial data collection and processing.
+- **Database Management & Continuity:** Handling MySQL, PostgreSQL, and InfluxDB instances, including schema design, query optimization, and automated backup/recovery routines.
+- **Operations & System Support:** Overseeing Linux/Docker runtime environments, Web servers (Nginx/Apache), background job queues, and providing comprehensive user and system support.
 
 ---
 
-### 🌱 Currently Learning
+### Technical Proficiencies
 
-- Linux
-- Tailwind CSS
+#### **Backend & Application Development**
+- **Languages:** PHP, JavaScript
+- **Frameworks & Libraries:** Laravel, Laravel Livewire, Laravel PowerGrid, Laravel Queues & Workers
+- **API & Networking:** RESTful APIs, WebSockets, MQTT, Industrial IoT Protocols
+
+#### **Industrial Systems & IoT**
+- **Automation & Pipelines:** Node-RED, EMQX, ThingsBoard
+- **Data Ingestion:** MQTT Brokers, Industrial Sensor & Machine Data Collection
+
+#### **Databases & Time-Series Storage**
+- **Relational Databases:** MySQL, PostgreSQL, Relational Database Architecture & Optimization
+- **Time-Series Databases:** InfluxDB
+
+#### **Infrastructure, DevOps & Monitoring**
+- **Operating Systems & Administration:** Linux Server Administration, Linux (Essentials & LPIC-1 certified level)
+- **Containerization & Web Servers:** Docker, Nginx, Apache
+- **Observability:** Grafana, Zabbix
+- **Version Control:** Git, GitHub
+
+#### **Frontend & UI**
+- **Technologies:** HTML5, CSS3, Bootstrap, Tailwind CSS
 
 ---
 
-### 💬 Let's Connect
+### Teaching & Mentorship
+With **6 years of teaching experience**, delivering structured training programs in:
+- PHP (Fundamental to Advanced)
+- Laravel Framework
+- MySQL & Relational Database Design
 
-Feel free to reach out if you want to collaborate on projects, discuss technology, or just say hi!
+---
+
+### Currently Learning & Expanding
+- Advanced Linux System Administration (beyond LPIC-1)
+- DevOps & CI/CD Tooling
+- Python & Machine Learning
+- Advanced Distributed Architectures
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farzinbidokhti&show_icons=true&theme=nord&hide_border=true" alt="Farzin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzinbidokhti&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzinbidokhti&theme=nord&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Connect
+
+- **Website:** [farzin-bidokhti.ir](https://farzin-bidokhti.ir)
+- **Email:** [farzin.bidokhti.ieee@gmail.com](mailto:farzin.bidokhti.ieee@gmail.com)
+- **GitHub:** [github.com/farzinbidokhti](https://github.com/farzinbidokhti)
+
+---
+
+<p align="center">
+  <em>"Committed to continuous growth, rigorous problem-solving, and building resilient, scalable systems that power critical operations."</em>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farzinbidokhti&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
