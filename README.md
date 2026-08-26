@@ -1,7 +1,7 @@
 # Farzin Bidokhti
 ### Backend Developer & Smart Systems Specialist
 
-A backend developer and smart systems specialist with a strong background in architecting reliable backend services, industrial IoT ecosystems, and operational infrastructure. Focused on building scalable architectures, implementing end-to-end monitoring solutions, designing robust databases, and solving complex technical challenges with structured problem-solving methodologies.
+A backend developer and smart systems specialist with a strong background in architecting reliable backend services and managing operational infrastructure. While my experience in industrial IoT is relatively recent, I have successfully applied my technical skills to real-world industrial systems, including data collection, monitoring, and automation workflows. I am focused on building scalable architectures, designing robust databases, implementing end-to-end monitoring solutions, and solving complex technical challenges through structured problem-solving methodologies.
 
 ---
 
@@ -62,8 +62,14 @@ With **6 years of teaching experience**, delivering structured training programs
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farzinbidokhti&show_icons=true&theme=nord&hide_border=true" alt="Farzin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzinbidokhti&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=farzinbidokhti&show_icons=true&theme=nord&hide_border=true"
+    alt="Farzin's GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=farzinbidokhti&layout=compact&theme=nord&hide_border=true"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
