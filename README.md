@@ -59,28 +59,6 @@ With **6 years of teaching experience**, delivering structured training programs
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=farzinbidokhti&show_icons=true&theme=nord&hide_border=true"
-    alt="Farzin's GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=farzinbidokhti&layout=compact&theme=nord&hide_border=true"
-    alt="Top Languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=farzinbidokhti&theme=nord&hide_border=true"
-    alt="Farzin's GitHub Streak"
-  />
-</div>
-
----
-
 ### Connect
 
 - **Website:** [farzin-bidokhti.ir](https://farzin-bidokhti.ir)
