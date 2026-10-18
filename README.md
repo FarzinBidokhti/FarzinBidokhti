@@ -1,75 +1,72 @@
 # Farzin Bidokhti
+
 ### Backend Developer & Smart Systems Specialist
 
-A backend developer and smart systems specialist with a strong background in architecting reliable backend services and managing operational infrastructure. While my experience in industrial IoT is relatively recent, I have successfully applied my technical skills to real-world industrial systems, including data collection, monitoring, and automation workflows. I am focused on building scalable architectures, designing robust databases, implementing end-to-end monitoring solutions, and solving complex technical challenges through structured problem-solving methodologies.
+Backend developer focused on Laravel, databases, Linux infrastructure, monitoring, and industrial data systems.
+
+I work on backend application development, Dockerized services, PostgreSQL/MySQL/InfluxDB, Grafana/Zabbix monitoring, and industrial data collection with MQTT, EMQX, and Node-RED.
 
 ---
 
-### Current Role
-**Smart Systems Specialist** | *Tire Manufacturing Company* *(1.5+ Years)*
+## Core Skills
 
-- **Server & Infrastructure Administration:** Deploying, securing, and maintaining Linux-based servers and Dockerized service environments.
-- **Internal Systems Engineering:** Developing, maintaining, and scaling business-critical internal applications.
-- **Industrial Monitoring & Observability:** Designing and managing comprehensive monitoring solutions using Zabbix and Grafana.
-- **IoT & Industrial Data Systems:** Configuring EMQX message brokers, MQTT pipelines, and Node-RED flows for real-time industrial data collection and processing.
-- **Database Management & Continuity:** Handling MySQL, PostgreSQL, and InfluxDB instances, including schema design, query optimization, and automated backup/recovery routines.
-- **Operations & System Support:** Overseeing Linux/Docker runtime environments, Web servers (Nginx/Apache), background job queues, and providing comprehensive user and system support.
+**Backend**
+- PHP, Laravel, Livewire, REST APIs
+- Laravel Queues & Workers
+- WebSockets, MQTT
 
----
+**Databases**
+- PostgreSQL
+- MySQL
+- InfluxDB
 
-### Technical Proficiencies
+**DevOps & Infrastructure**
+- Linux Server Administration
+- Docker
+- Nginx, Apache
+- Git, GitHub
 
-#### **Backend & Application Development**
-- **Languages:** PHP, JavaScript
-- **Frameworks & Libraries:** Laravel, Laravel Livewire, Laravel PowerGrid, Laravel Queues & Workers
-- **API & Networking:** RESTful APIs, WebSockets, MQTT, Industrial IoT Protocols
+**Monitoring & Industrial Systems**
+- Grafana
+- Zabbix
+- Node-RED
+- EMQX
+- ThingsBoard
+- Industrial IoT data pipelines
 
-#### **Industrial Systems & IoT**
-- **Automation & Pipelines:** Node-RED, EMQX, ThingsBoard
-- **Data Ingestion:** MQTT Brokers, Industrial Sensor & Machine Data Collection
-
-#### **Databases & Time-Series Storage**
-- **Relational Databases:** MySQL, PostgreSQL, Relational Database Architecture & Optimization
-- **Time-Series Databases:** InfluxDB
-
-#### **Infrastructure, DevOps & Monitoring**
-- **Operating Systems & Administration:** Linux Server Administration, Linux (Essentials & LPIC-1 certified level)
-- **Containerization & Web Servers:** Docker, Nginx, Apache
-- **Observability:** Grafana, Zabbix
-- **Version Control:** Git, GitHub
-
-#### **Frontend & UI**
-- **Technologies:** HTML5, CSS3, Bootstrap, Tailwind CSS
+**Frontend**
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
 
 ---
 
-### Teaching & Mentorship
-With **6 years of teaching experience**, delivering structured training programs in:
-- PHP (Fundamental to Advanced)
-- Laravel Framework
-- MySQL & Relational Database Design
+## Experience
+
+Currently working as a **Smart Systems Specialist** in the manufacturing industry, developing internal systems, managing infrastructure, building monitoring solutions, and working with industrial data and automation workflows.
+
+I also have **6 years of teaching experience** in PHP, Laravel, MySQL, and relational database design.
 
 ---
 
-### Currently Learning & Expanding
-- Advanced Linux System Administration (beyond LPIC-1)
-- DevOps & CI/CD Tooling
+## Currently Exploring
+
+- Advanced Linux Administration
+- DevOps & CI/CD
 - Python & Machine Learning
-- Advanced Distributed Architectures
+- Distributed Systems
 
 ---
 
-### Connect
+## Connect
 
-- **Website:** [farzin-bidokhti.ir](https://farzin-bidokhti.ir)
-- **Email:** [farzin.bidokhti.ieee@gmail.com](mailto:farzin.bidokhti.ieee@gmail.com)
-- **GitHub:** [github.com/farzinbidokhti](https://github.com/farzinbidokhti)
+- Website: [farzin-bidokhti.ir](https://farzin-bidokhti.ir)
+- Email: [farzin.bidokhti.ieee@gmail.com](mailto:farzin.bidokhti.ieee@gmail.com)
+- GitHub: [github.com/farzinbidokhti](https://github.com/farzinbidokhti)
 
 ---
 
-<p align="center">
-  <em>"Committed to continuous growth, rigorous problem-solving, and building resilient, scalable systems that power critical operations."</em>
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farzinbidokhti&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
