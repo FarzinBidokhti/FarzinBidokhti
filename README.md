@@ -1,100 +1,72 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-    <img alt="Farzin Bidokhti terminal profile" src="./assets/profile-dark.svg">
-  </picture>
-</p>
+# Farzin Bidokhti
 
-<h1 align="center">Farzin Bidokhti</h1>
+### Backend Developer & Smart Systems Specialist
 
-<p align="center">
-  <strong>Backend Developer · Smart Systems Specialist</strong>
-</p>
+Backend developer focused on Laravel, databases, Linux infrastructure, monitoring, and industrial data systems.
 
-<p align="center">
-  Building reliable backend systems, observability platforms,<br>
-  and industrial data solutions.
-</p>
+I work on backend application development, Dockerized services, PostgreSQL/MySQL/InfluxDB, Grafana/Zabbix monitoring, and industrial data collection with MQTT, EMQX, and Node-RED.
 
 ---
 
-## About
+## Core Skills
 
-I am a backend developer and Smart Systems Specialist working at the intersection of application development, infrastructure, observability, and industrial data systems.
+**Backend**
+- PHP, Laravel, Livewire, REST APIs
+- Laravel Queues & Workers
+- WebSockets, MQTT
 
-My work primarily involves Laravel applications, Linux and Docker environments, relational and time-series databases, monitoring platforms, and industrial data pipelines.
+**Databases**
+- PostgreSQL
+- MySQL
+- InfluxDB
 
-I also have more than six years of experience teaching PHP, Laravel, MySQL, and relational database design.
+**DevOps & Infrastructure**
+- Linux Server Administration
+- Docker
+- Nginx, Apache
+- Git, GitHub
 
----
+**Monitoring & Industrial Systems**
+- Grafana
+- Zabbix
+- Node-RED
+- EMQX
+- ThingsBoard
+- Industrial IoT data pipelines
 
-## Selected Open Source
-
-### Jalali Events
-
-**Laravel package for Iranian Jalali calendar events and official holidays**
-
-[Pulselineir/jalali-events](https://github.com/Pulselineir/jalali-events)
-
-```bash
-composer require pulseline/jalali-events
-```
-
-Laravel · PHP · Jalali Calendar · PostgreSQL · MySQL · SQLite · Packagist
-
----
-
-### node-red-contrib-jalali
-
-**Jalali date and time utilities for Node-RED**
-
-[FarzinBidokhti/node-red-contrib-jalali](https://github.com/FarzinBidokhti/node-red-contrib-jalali)
-
-Node-RED · JavaScript · Jalali Calendar
+**Frontend**
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
 
 ---
 
-## What I Work With
+## Experience
 
-```text
-Backend        PHP · Laravel · Livewire · REST APIs
-Data           PostgreSQL · MySQL · InfluxDB
-Infrastructure Linux · Docker · Nginx · Apache
-Observability  Grafana · Zabbix
-Industrial     Node-RED · EMQX · MQTT · ThingsBoard
-Workflow       Git · GitHub
-```
+Currently working as a **Smart Systems Specialist** in the manufacturing industry, developing internal systems, managing infrastructure, building monitoring solutions, and working with industrial data and automation workflows.
+
+I also have **6 years of teaching experience** in PHP, Laravel, MySQL, and relational database design.
 
 ---
 
-## Current Focus
+## Currently Exploring
 
-```text
-> Advanced Linux administration
-> DevOps and CI/CD
-> Open-source package development
-> Python and machine learning
-> Distributed system architecture
-```
-
----
-
-## Beyond Development
-
-Alongside software engineering, I work with production and industrial environments where software must interact with machines, operational data, monitoring systems, and infrastructure.
-
-This has shaped my approach toward reliability, maintainability, observability, and practical engineering.
+- Advanced Linux Administration
+- DevOps & CI/CD
+- Python & Machine Learning
+- Distributed Systems
 
 ---
 
 ## Connect
 
-[Website](https://farzin-bidokhti.ir) ·
-[GitHub](https://github.com/FarzinBidokhti) ·
-[LinkedIn](https://www.linkedin.com/in/farzinbidokhti) ·
-[Email](mailto:farzin.bidokhti.ieee@gmail.com)
+- Website: [farzin-bidokhti.ir](https://farzin-bidokhti.ir)
+- Email: [farzin.bidokhti.ieee@gmail.com](mailto:farzin.bidokhti.ieee@gmail.com)
+- GitHub: [github.com/farzinbidokhti](https://github.com/farzinbidokhti)
+
+---
 
 <p align="center">
-  <sub>Backend · Infrastructure · Observability · Industrial Data</sub>
+  <img src="https://komarev.com/ghpvc/?username=farzinbidokhti&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
