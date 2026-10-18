@@ -1,155 +1,69 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+    <img alt="Farzin Bidokhti terminal profile" src="./assets/profile-dark.svg">
+  </picture>
+</p>
 
-# Farzin Bidokhti
+<h1 align="center">Farzin Bidokhti</h1>
 
-### Backend Developer & Smart Systems Specialist
+<p align="center">
+  <strong>Backend Developer · Smart Systems Specialist</strong>
+</p>
 
-Building reliable backend systems, monitoring platforms, and industrial data solutions.
-
-</div>
-
----
-
-```text
-              .-=========-.             farzin@github
-           .-+#############+-.          -------------------------------
-         .=###################=.        Role:       Backend Developer
-        +##########****#########+                   Smart Systems Specialist
-       *#######*=-::::-=*#######*
-      +######+:          :+######+      Focus:      Laravel / Backend Systems
-      ######=    .----.    =######                  DevOps / Observability
-     *#####*    / .--. \    *#####                  Industrial Data Systems
-     ######+   |  o  o |   +######
-     ######    |   __  |    ######      Stack:      PHP, Laravel, Livewire
-     *#####=    \ `--' /    =#####*                 PostgreSQL, MySQL, InfluxDB
-      ######+.   `----'   .+######                  Linux, Docker, Nginx
-      +#######*=-.    .-=*#######+                  Grafana, Zabbix
-       *##########****##########*                   Node-RED, EMQX, MQTT
-        +######################+
-         .=##################=.         Learning:   CI/CD, Python, ML
-           '-+############+-'                       Distributed Systems
-               '--------'
-
-                                        Website:    farzin-bidokhti.ir
-                                        GitHub:     @FarzinBidokhti
-```
+<p align="center">
+  Building reliable backend systems, observability platforms,<br>
+  and industrial data solutions.
+</p>
 
 ---
 
-## About Me
+## About
 
-Backend developer and Smart Systems Specialist focused on building reliable applications, managing operational infrastructure, and developing industrial data and monitoring solutions.
+I am a backend developer and Smart Systems Specialist working at the intersection of application development, infrastructure, observability, and industrial data systems.
 
-My work combines backend development with Linux infrastructure, databases, observability, Dockerized services, and industrial data pipelines.
+My work primarily involves Laravel applications, Linux and Docker environments, relational and time-series databases, monitoring platforms, and industrial data pipelines.
 
-Currently working in the manufacturing industry on internal systems, monitoring platforms, industrial data collection, automation workflows, and infrastructure operations.
-
-I also have more than six years of teaching experience in PHP, Laravel, MySQL, and relational database design.
+I also have more than six years of experience teaching PHP, Laravel, MySQL, and relational database design.
 
 ---
 
-## Featured Projects
+## Selected Open Source
 
 ### Jalali Events
 
+**Laravel package for Iranian Jalali calendar events and official holidays**
+
 [Pulselineir/jalali-events](https://github.com/Pulselineir/jalali-events)
-
-A Laravel package for Iranian Jalali calendar events and official holidays.
-
-Key features:
-
-- Jalali calendar synchronization
-- Official holiday detection
-- Date and date-range queries
-- Database and JSON storage
-- PostgreSQL, MySQL, MariaDB, and SQLite support
-- Automatic scheduled synchronization
-- Published on Packagist
-
-Install with Composer:
 
 ```bash
 composer require pulseline/jalali-events
 ```
 
+Laravel · PHP · Jalali Calendar · PostgreSQL · MySQL · SQLite · Packagist
+
 ---
 
 ### node-red-contrib-jalali
 
+**Jalali date and time utilities for Node-RED**
+
 [FarzinBidokhti/node-red-contrib-jalali](https://github.com/FarzinBidokhti/node-red-contrib-jalali)
 
-Jalali date and time utilities for Node-RED.
-
-Designed for workflows that require Persian calendar support inside Node-RED environments.
+Node-RED · JavaScript · Jalali Calendar
 
 ---
 
-## Core Skills
-
-### Backend Development
+## What I Work With
 
 ```text
-PHP
-Laravel
-Laravel Livewire
-Laravel Queues & Workers
-REST APIs
-WebSockets
-MQTT
-```
-
-### Databases
-
-```text
-PostgreSQL
-MySQL
-InfluxDB
-Relational Database Design
-Query Optimization
-Time-Series Data
-```
-
-### Infrastructure & DevOps
-
-```text
-Linux Server Administration
-Docker
-Nginx
-Apache
-Git
-GitHub
-```
-
-### Monitoring & Observability
-
-```text
-Grafana
-Zabbix
-InfluxDB
-Infrastructure Monitoring
-Application Monitoring
-Industrial Monitoring
-```
-
-### Industrial Systems & IoT
-
-```text
-Node-RED
-EMQX
-MQTT
-ThingsBoard
-Industrial Data Collection
-Machine Data Pipelines
-Automation Workflows
-```
-
-### Frontend
-
-```text
-HTML5
-CSS3
-Bootstrap
-Tailwind CSS
+Backend        PHP · Laravel · Livewire · REST APIs
+Data           PostgreSQL · MySQL · InfluxDB
+Infrastructure Linux · Docker · Nginx · Apache
+Observability  Grafana · Zabbix
+Industrial     Node-RED · EMQX · MQTT · ThingsBoard
+Workflow       Git · GitHub
 ```
 
 ---
@@ -157,49 +71,30 @@ Tailwind CSS
 ## Current Focus
 
 ```text
-Advanced Linux Administration
-DevOps & CI/CD
-Python
-Machine Learning
-Distributed Systems
-Open Source Development
+> Advanced Linux administration
+> DevOps and CI/CD
+> Open-source package development
+> Python and machine learning
+> Distributed system architecture
 ```
 
 ---
 
-## Open Source
+## Beyond Development
 
-I am currently focused on publishing reusable open-source tools and packages around:
+Alongside software engineering, I work with production and industrial environments where software must interact with machines, operational data, monitoring systems, and infrastructure.
 
-- Laravel
-- Persian and Jalali ecosystem
-- Industrial software
-- Monitoring and observability
-- Developer tooling
-- Data infrastructure
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarzinBidokhti&show_icons=true&hide_border=true&theme=transparent" alt="Farzin Bidokhti GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzinBidokhti&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
-</p>
+This has shaped my approach toward reliability, maintainability, observability, and practical engineering.
 
 ---
 
 ## Connect
 
-- Website: [farzin-bidokhti.ir](https://farzin-bidokhti.ir)
-- GitHub: [github.com/FarzinBidokhti](https://github.com/FarzinBidokhti)
-- Email: [farzin.bidokhti.ieee@gmail.com](mailto:farzin.bidokhti.ieee@gmail.com)
-
----
+[Website](https://farzin-bidokhti.ir) ·
+[GitHub](https://github.com/FarzinBidokhti) ·
+[LinkedIn](https://www.linkedin.com/in/farzinbidokhti) ·
+[Email](mailto:farzin.bidokhti.ieee@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarzinBidokhti&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <sub>Backend · Infrastructure · Observability · Industrial Data</sub>
 </p>
